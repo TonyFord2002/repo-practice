@@ -13,7 +13,7 @@ This is me making a change to the file.
 >markdown can do.
 >>This is a nested blockquote that hopefully works.
 
- ![The Peesha Dog](Peesha Dog.jpg)
+ ![The Peesha Dog](PeeshaDog.jpg)
 
 - I also want to try
 - an unordered list.
