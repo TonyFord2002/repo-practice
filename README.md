@@ -7,7 +7,7 @@ This is me making a change to the file.
 1. I 
 2. **want to**
 3. *try all of*
-4. ***the different types**
+4. ***the different types***
 
 >of funtctionalities that
 >markdown can do.
